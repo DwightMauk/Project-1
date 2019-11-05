@@ -7,6 +7,8 @@ Made line charts, heat maps, and boxplots, to vizualise data.
 
 ![map](alzheimer%20map.png)
 
+![map2](heart_disease%20map.png)
+
 ![boxplot](Bplot%20Cancer%20Year%20range.png)
 
 ![leading](Leading%20Causes%20of%20Death%20USA.png)
